@@ -1,6 +1,6 @@
 {
   "name": "winston-transport-logtail",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "logtail.com transport for winston v3 logger",
   "main": "dist/cjs/index.js",
   "module": "dist/es6/index.js",
@@ -40,7 +40,7 @@
     "node": "16"
   },
   "dependencies": {
-    "stack-trace": "^1.0.0-pre1",
+    "stack-trace": "^0.0.10",
     "winston-transport": "^4.4.2"
   },
   "devDependencies": {
